@@ -12,14 +12,14 @@ Dialect Identification (DID) is a well defined task with text data and models us
 
 ##### MGB-3 Arabic Dialect Corpus
 
-MGB-3 Corpus WAV files located (HERE)[http://alt.qcri.org/resources/ArabicDialectIDCorpus/varDial2017_Arabic_Dialect_Identification/train/]
+MGB-3 Corpus WAV files located [HERE](http://alt.qcri.org/resources/ArabicDialectIDCorpus/varDial2017_Arabic_Dialect_Identification/train/)
 
 ##### FRED-s English Dialect Corpus
 
-FRED-s corpus WAV files located (HERE)[https://fred.ub.uni-freiburg.de/]
+FRED-s corpus WAV files located [HERE](https://fred.ub.uni-freiburg.de/)
 
 #### Delta-Spectral Cepstral Coefficient Python Implementation
-Code can be found (HERE)[https://github.com/ryancallihan/thesis_project/blob/master/utils/audio_utils.py]
+Code can be found [HERE](https://github.com/ryancallihan/thesis_project/blob/master/utils/audio_utils.py)
 
 #### Results
 
